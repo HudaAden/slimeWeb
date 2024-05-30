@@ -1,29 +1,42 @@
 .logo{
-    height: 150px;
-    width: 100%; 
-    margin: 0px;
- }
- .navbar{
-     border: 10px, solid, black;
-     font-family:'Lora',serif;
-     background-color:#ECF4D6;
- }
-   .about{
-     font-family:'Lora',serif;
-         text-align:center;
-         font-size :20px;
-         margin-right:55px;
-         padding:10px;
-         background-color:#ECF4D6;
+  height: 150px;
+  width: 100%; 
+  margin: 0px;
+}
+.navbar{
+   border: 10px, solid, black;
+   font-family:'Lora',serif;
+   background-color:#ECF4D6;
+   font-family: "Poetsen One", sans-serif;
+   font-weight: 400;
+   font-style: normal;
+}
+ .about{
+   font-family:'Lora',serif;
+       text-align:center;
+       font-size :20px;
+       margin-right:55px;
+       padding:10px;
+       background-color:#ECF4D6;
+   }
+   .footer{
+       text-align:center;
+       font-family:'Lora',serif;
+   }
+     .banner{
+       width: 1365px;
+       height: 450px;
      }
-     .footer{
-         text-align:center;
-         font-family:'Lora',serif;
+     .img-thumbnail{
+       margin-top: 25px;
      }
-       .banner{
-         width: 1365px;
-         height: 450px;
-       }
-       .img-thumbnail{
-         margin-top: 25px;
-       }
+     .text {
+       font-family: "Poetsen One", sans-serif;
+       font-weight: 400;
+       font-style: normal;
+       color:cornflowerblue
+     }
+     .nav-link{
+       text-align: center;
+     }
+     
